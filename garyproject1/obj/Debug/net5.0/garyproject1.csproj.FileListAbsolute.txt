@@ -1,0 +1,15 @@
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/bin/Debug/net5.0/garyproject1.deps.json
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/bin/Debug/net5.0/garyproject1.runtimeconfig.json
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/bin/Debug/net5.0/garyproject1.runtimeconfig.dev.json
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/bin/Debug/net5.0/garyproject1.dll
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/bin/Debug/net5.0/ref/garyproject1.dll
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/bin/Debug/net5.0/garyproject1.pdb
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.csproj.AssemblyReference.cache
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.AssemblyInfoInputs.cache
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.AssemblyInfo.cs
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.csproj.CoreCompileInputs.cache
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.dll
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/ref/garyproject1.dll
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.pdb
+/Users/helenallenet/Documents/HARepos/HA1/garyproject1/obj/Debug/net5.0/garyproject1.genruntimeconfig.cache

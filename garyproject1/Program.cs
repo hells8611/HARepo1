@@ -15,10 +15,25 @@ namespace garyproject1
             string input = Console.ReadLine();
             Console.WriteLine($"Hi {input} I love your name, so original");
 
-             Ask("How are you doing today then darling on a scale of 1 to 10?");
-        
-        
             //ask them how they are
+            Console.Out.WriteLine("How are you doing today then darling?");
+            string status = Console.ReadLine();
+
+            if (status == "good")
+            
+            {
+            Console.WriteLine("Bringing all the joy to the world one smile at a time... I hope !");
+            }
+            else
+            {
+            Console.WriteLine("remember that all feelings are temporary and this will get better");
+            }
+
+
+            Console.WriteLine("Well darling, I have another question for you");
+        
+        
+            
             //random questions for all involved
             Random question = new Random();
             int x = question.Next(3);
@@ -32,29 +47,23 @@ namespace garyproject1
              string[] answer = new string[3];
              answer[0] = "toaster";
              answer[1] = "kelly kettle";
-              answer[2] = "knickers";
+             answer[2] = "knickers";
             
 
             string a = Console.ReadLine();
 
              if (a == answer[x])
              {
-                Console.WriteLine("congratulations \n*Next Question is:");
+                Console.WriteLine("congratulations");
             
-                }
+            }
             else
-                Console.WriteLine("It's False \n*Please Try Again.");
-
-                Console.ReadLine();
-
+            {
+                Console.WriteLine("Incorrect, please try harder...");
+            }
         }
-        static void Ask(string question)
-         {
-            Console.WriteLine(question);
-            string answer = Console.ReadLine();
-            Console.WriteLine($"Well darling, I have another question for you");
 
-        }
-        
     }
-}   
+            
+
+}

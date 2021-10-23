@@ -1,0 +1,15 @@
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/bin/Debug/net5.0/buysellme.deps.json
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/bin/Debug/net5.0/buysellme.runtimeconfig.json
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/bin/Debug/net5.0/buysellme.runtimeconfig.dev.json
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/bin/Debug/net5.0/buysellme.dll
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/bin/Debug/net5.0/ref/buysellme.dll
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/bin/Debug/net5.0/buysellme.pdb
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.csproj.AssemblyReference.cache
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.AssemblyInfoInputs.cache
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.AssemblyInfo.cs
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.csproj.CoreCompileInputs.cache
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.dll
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/ref/buysellme.dll
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.pdb
+/Users/helenallenet/Documents/HARepos/HA1/buysellme/obj/Debug/net5.0/buysellme.genruntimeconfig.cache
